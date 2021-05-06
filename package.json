@@ -1,0 +1,24 @@
+{
+  "name": "kitchencartbackend",
+  "version": "1.0.0",
+  "description": "backend for kitchen cart -eCommerce for kitchen products",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshith-venkatesh/KitchenCartBackend.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "ExpressJS",
+    "Javascript"
+  ],
+  "author": "Harshith Venkatesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshith-venkatesh/KitchenCartBackend/issues"
+  },
+  "homepage": "https://github.com/harshith-venkatesh/KitchenCartBackend#readme"
+}
